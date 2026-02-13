@@ -23,6 +23,7 @@
     {"name":"inst_46F1F563","path":"rooms/rm_level_2/rm_level_2.yy",},
     {"name":"inst_453F3C1","path":"rooms/rm_level_2/rm_level_2.yy",},
     {"name":"inst_BD7DBB9","path":"rooms/rm_level_2/rm_level_2.yy",},
+    {"name":"inst_6F415853","path":"rooms/rm_level_2/rm_level_2.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -118,6 +119,7 @@
         {"$GMRInstance":"v4","%Name":"inst_4054477","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4054477","objectId":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2432.0,"y":1472.0,},
         {"$GMRInstance":"v4","%Name":"inst_46F1F563","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_46F1F563","objectId":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":768.0,"y":1408.0,},
         {"$GMRInstance":"v4","%Name":"inst_453F3C1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_453F3C1","objectId":{"name":"obj_block_brick","path":"objects/obj_block_brick/obj_block_brick.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":5120.0,"y":1152.0,},
+        {"$GMRInstance":"v4","%Name":"inst_6F415853","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6F415853","objectId":{"name":"obj_block_test","path":"objects/obj_block_test/obj_block_test.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0,"scaleY":5.0,"x":1408.0,"y":1344.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Template_Messages","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_1C1B063","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1C1B063","objectId":{"name":"obj_placeholder_message","path":"objects/obj_placeholder_message/obj_placeholder_message.yy",},"properties":[
